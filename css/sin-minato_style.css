@@ -1,0 +1,747 @@
+﻿@charse"UTF-8";
+
+/* すべてのページに適応　*/
+
+p {
+	color: black;
+	font-size; 20px;
+}
+
+body {
+	background: linear-gradient(#ffffff, #00bfff);
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+
+
+.sin-home_hedder {
+	background-color: #fffff0;
+	
+}
+
+
+
+.sin-home_block1 {
+	width: 1200px; height: 120px;
+	margin: 0 auto 0 auto;
+	overflow: hidden;
+	zoom: 1;
+	border-bottom: 3px solid #442220;
+}
+
+
+.sin-home_left1 {
+	width: 196px; height: 113px;
+	float: left;
+	margin: 10px 10px 0 150px; 
+	<!--border: 1px solid black;-->
+}
+
+.sin-home_center1 {
+	width: 500px; height: 113px;
+	float: left;
+	margin: 10px 10px 0 10px;
+	<!--border: 1px solid block;-->
+}
+
+.sin-home_right1 {
+	width: 200px; height: 113px;
+	float: left;
+	<!--border: 1px solid black;-->
+	margin: 10px 0 0 0;
+}
+
+.sin-home_tel {
+	font-size: 20px;
+	padding-top: 50px;
+}
+
+.sin-home_nav li {
+	list-style-type: none;
+	margin-bottom: 15px;
+}
+
+.sin-home_obi1 {
+	font-size: 20px;
+	background-image: url(../minato_images/minato_obi.png);
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体";
+}
+
+.sin-home_obi2 {
+	font-size: 20px;
+	background-image: url(../minato_images/minato_obi.png);
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi3 {
+	font-size: 20px;
+	background-image: url(../minato_images/minato_obi.png);
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_main {
+	background-image: url(../minato_images/minato_kumo.png);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	margin: 50px auto 0 auto;
+	width: 1200px; height: 1300px;
+	<!--border: 1px solid black;-->
+}
+/*sin_oneday_index_html　に適応*/
+
+.title1 {
+	font-size: 30px;
+	color: black;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体";
+}
+
+.sin_oneday_main {
+	background-image: url(../minato_images/minato_kumo.png);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	margin: 50px auto 0 auto;
+	width: 1200px; height: 1400px;
+	<!--border: 1px solid black;-->
+}
+.sin-home_block2 {
+	overflow: hidden;
+	zoom: 1;
+}
+
+.sin-home_left2 {
+	float: left;
+	background-image: url(../minato_images/minato_background.png);
+	background-repeat: no-repeat;
+	margin: 30px 0 0 30px;
+	width: 300px; height: 800px;
+	<!--border: 1px solid black;-->
+}
+
+.sin-home_left2 div {
+	list-style-type: none;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+.sin-home_left2 li {
+	list-style-type: none;
+	padding-top: 30px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+
+.sin-home_right2 {
+	float: left;
+	margin: 30px 0 0 30px;
+	width: 800px; height: 1000px;
+	<!--border: 1px solid black;-->
+}
+
+
+
+.access p {
+	font-size: 30px;
+	color: block;
+}
+
+/* sin_oneday_index_html に適応　*/
+.sin_oneday_right2 {
+	float: left;
+	margin: 30px 0 0 30px;
+	width: 800px; height: 2500px;
+	<!--border: 1px solid black;-->
+}
+.sin-home_obi4 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi5 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi6 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi7 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi8 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi9 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi10 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi11 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi12 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.sin-home_obi13 {
+	font-size: 21px;
+	background-image: url(../minato_images/minato_sin-sin-menu1.png);
+	background-repeat: no-repeat;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+
+
+
+/* 新ホームに適応　*/
+h3 {
+	font-size: 24px;
+}
+
+.sin-home_right2 img {
+	max-width: 100%;
+}
+
+.image-change {
+	margin: 20px 0 0 0;
+	width: 90%;
+}
+
+.daikakko ul {
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.daikakko li {
+	float: left;
+	margin-right: 1%;
+	width: 24%;
+
+}
+
+.news {
+	padding: 10px 0 5px 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #000000;
+}
+
+.sin-home_block3 {
+	overflow: hidden;
+	width: 780px; height: 500px;
+	<!--border: 1px solid black;-->
+}
+
+.sin-home_left3 {
+	float: left;
+	width: 400px; height: 480px;
+	border: 3px solid black;
+}
+
+.sin-home_right3 {
+	float: left;
+	width: 370px; height: 500px;
+	<!--border: 1px solid black;-->
+}
+.zero li {
+	list-style-type: none;
+	padding: 10px;
+	margin: 10px;
+	font-size: 25px;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+.one {
+	background-color: #ffff00;
+	border: 1px solid black;
+}
+.two {
+	background-color: #ffff00;
+	border: 1px solid black;
+}
+.therr {
+	background-color: #ffff00;
+	border: 1px solid black;
+}
+
+h1 {
+	color: #ff8c00;
+	font-size: 30px;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+}
+/* sin-voice_box に適応 */
+
+.sin-voice_box12 {
+	overflow: hidden;
+	width: 800px; height: 400px;
+	border: 1px solid black;
+}
+
+.sin-voice_box_left {
+	float: left;
+	margin: 0 50px 0 0;
+	width: 350px; height: 397px;
+	border: 1px solid black;
+	position: relative;
+}
+
+.sin-voice_box_left p {
+	position: absolute;
+	color: black;
+	font-size: 30px;
+	top: 0;
+	left: 0;
+}
+
+.sin-voice_box_right {
+	float: left;
+	width: 353px; height: 366px;
+	border: 1px solid black;
+}
+
+.sin-voice_box1212 {
+	overflow: hidden;
+	width: 800px; height: 400px;
+}
+
+.sin-voice_left {
+	float: left;
+	width: 350px; height: 196px;
+	margin: 0 80px 0 0;
+	border: 3px solid #FFA500;
+}
+.sin-voice_right {
+	float: left;
+	width: 353px; height: 198px;
+	margin: 0 0 0 0;
+	border: 3px solid #FFA500;
+}
+/* sin-report_box に適応 */
+
+.sin-report_box {
+	overflow: hidden;
+	width: 800px; height: 800px;
+}
+
+.sin-report_box_left {
+	float: left;
+	margin: 0 20px 0 40px;
+	width: 350px; height: 700px;
+	border: 3px solid #FFA500;
+}
+
+.sin-report_box_right {
+	float: left;
+	margin: 0 0 0 0;
+	width: 350px; height: 730px;
+	border: 3px solid #FFA500;
+}
+
+.syasin {
+	margin: 10px 0 0 10px;
+}
+
+.staff {
+	margin: 300px 0 0 10px;
+}
+
+.staff-font{
+	font-size: 30px;
+	color: block;
+}
+/* sin_price_index_html に適応*/
+
+.pricefont2 p{
+	font-size: 30px;
+	color: block;
+}
+
+.minato1_list {
+	overflow: hidden;
+	width: 500px; height: 350px;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	list-style-type: none;
+	border: 1px solid #23628f;
+}
+.minato1_list h2 {
+	margin: 0 0 1em 0;
+	font-size: 24px;
+	text-align: center;
+}
+.seat {
+	float: left;
+	margin: 10px 10px 10px 0;
+	border: 1px solid #23628f;
+	padding: 1px;
+	width: 90%;
+}
+.check {
+	margin: 0;
+	padding: 1px;
+	font-size: 20px;
+	color: #ffffff;
+	background-color: #23628f;
+	text-align: center;
+	cursor: pointer;
+}
+.red {
+	background-color: #e33a6d;
+}
+.green {
+	background-color: #7bc52e;
+}
+
+/* minato_sin_inquey_index.html　に適応*/
+
+.inquery {
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+
+
+
+table.inquery th, table.inquery td {
+	padding: 8px 8px 8px 8px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.inquery th {
+	font-size: 24px;
+	background-color: #c99e73;
+	color: #442220;
+}
+table.inquery td {
+	font-size: 24px;
+}
+
+/* minato_sin_helper_index.html */
+.introduce {
+	margin-bottom: 50px;
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+table.introduce th, table.introduce td {
+	padding: 10px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.introduce th {
+	font-size: 16px;
+	background-color: #c99e73;
+	color: #000000;
+}
+table.introduce td {
+	font-size: 16px;
+}
+
+.sin_minato_oneday_all {
+	overflow: hidden;
+	width: 800px; height: 1300px;
+}
+.sin_minato_oneday_block_left {
+	float: left;
+}
+.sin_minato_oneday_block_center {
+	float: left;
+}
+.sin_minato_oneday_block_right {
+	float: left;
+}
+
+.odemukae {
+	font-size: 25px;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"	
+}
+
+.baitarucheck {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.teatime {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.gonyuuyoku {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.lunchtime {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.lec {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.oyatu {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.okaeri {
+	font-size: 25px;
+	margin: 80px 0 0 0;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #442220;
+	font-family: "HGP創英角ﾎﾟｯﾌﾟ体"
+}
+
+.mojimoji {
+	font-size: 20px;
+}
+.photo1 {
+	margin: 35px 0 0 50px;
+}
+
+.oke {
+	border: 1px solid black;
+}
+
+/* sin_corporation_index.html に適応 */
+.medical-institution {
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+table.medical-institution th, table.medical-institution td {
+	padding: 5px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.medical-institution th {
+	font-size: 16px;
+	background-color: #c99e73;
+	color: #000000;
+}
+table.medical-institution td {
+	font-size: 16px;
+}
+
+
+.walfare-institution {
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+table.walfare-institution th, table.walfare-institution td {
+	padding: 5px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.walfare-institution th {
+	font-size: 16px;
+	background-color: #c99e73;
+	color: #000000;
+}
+table.walfare-institution td {
+	font-size: 16px;
+}
+
+
+.cooperation-companies {
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+table.cooperation-companies th, table.cooperation-companies td {
+	padding: 5px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.cooperation-companies th {
+	font-size: 16px;
+	background-color: #c99e73;
+	color: #000000;
+}
+table.cooperation-companies td {
+	font-size: 16px;
+}
+
+/* minato_sin_homon_index.html に適応　*/
+.homon_block {
+	overflow: hidden;
+	width: 780px; height: 500px;
+}
+.homon_block_left {
+	float: left;
+	width: 400px; height: 441px;
+	border: 3px solid black;
+}
+.homon_block_right {
+	float: left;
+	width: 370px; height: 500px;
+}
+.homon-description {
+	font-size: 20px;
+}
+.homon_box {
+	background-color: #ffa500;
+	border: 3px solid black;
+}
+
+.homon_block_right h2 {
+	color: #ff8c00;
+	font-size: 25px;
+}
+
+.homon_block_right a {
+	font-size: 20px;
+}
+
+/* minato_sin_day_index.html に適応　*/
+
+.day_block {
+	overflow: hidden;
+	width: 780px; height: 600px;
+}
+.day_block_left {
+	float: left;
+	width: 400px; height: 441px;
+	border: 3px solid black;
+}
+.day_block_right {
+	float: left;
+	width: 370px; height: 500px;
+
+}
+.day-description {
+	font-size: 20px;
+}
+.day_box {
+	background-color: #ffa500;
+	border: 3px solid black;
+}
+
+.day_block_right h2 {
+	color: #ff8c00;
+	font-size: 25px;
+}
+
+.day_block_right a {
+	font-size: 20px;
+}
+
+/* minato_sin_hohoemihouse_index.html に適応　*/
+
+.hohoemihouse_block {
+	overflow: hidden;
+	width: 780px; height: 600px;
+}
+.hohoemihouse_block_left {
+	float: left;
+	width: 400px; height: 441px;
+	border: 3px solid black;
+}
+.hohoemihouse_block_right {
+	float: left;
+	width: 370px; height: 600px;
+}
+.hohoemihouse-description {
+	font-size: 20px;
+}
+.hohoemihouse_box {
+	background-color: #ffa500;
+	border: 3px solid black;
+}
+
+.hohoemihouse_block_right h2 {
+	color: #ff8c00;
+	font-size: 25px;
+}
+
+.hohoemihouse_block_right a {
+	font-size: 20px;
+}
+
+/* sin_price に適応　*/
+.medical-institution {
+	border-collapse: collapse;
+	border: 2px solid #b78c5f;
+}
+table.medical-institution th, table.medical-institution td {
+	padding: 5px;
+	border: 2px solid #b78c5f;
+	text-align: left;
+	vertical-align: middle;
+}
+table.medical-institution th {
+	font-size: 16px;
+	background-color: #c99e73;
+	color: #000000;
+}
+table.medical-institution td {
+	font-size: 16px;
+}
